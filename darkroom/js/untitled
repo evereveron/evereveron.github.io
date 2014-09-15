@@ -1,0 +1,37 @@
+.item {	
+	cursor: pointer;
+	border: #252525;
+	border-style: solid;
+	border-top-width: 10px;
+	border-left-width: 0;
+	border-right-width: 0;
+}
+.item{
+	list-style-type: none;
+}
+.item img {
+	opacity: 1;
+}
+.item img:hover {
+	opacity: 0.3;
+}
+.item span.hoverText{
+  background: none;
+  color: #FFFFFF;
+  font: 20px "Helvetica Neue";
+  cursor: pointer;
+  display: table;
+  height: 0;
+  left: 0;
+  position: absolute;
+  top: 0;
+  opacity: 0;
+}
+.item li:hover span.hoverText {
+	opacity: 1;
+}
+.item span.hoverTest span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}

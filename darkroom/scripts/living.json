@@ -1,0 +1,352 @@
+[
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/automobiles/03Fiestasticker/03Fiestasticker-sfSpan.jpg", 
+        "abstract": "The 2014 Ford Fiesta offers a bite-size 1-liter, 3-cylinder EcoBoost engine that produces bunches of low-end torque.", 
+        "article": "http://www.nytimes.com/2014/08/03/automobiles/autoreviews/2014-ford-fiesta-ecoboost-review.html", 
+        "author": "By EZRA DYER", 
+        "copyright": "Ford Motor", 
+        "section": "Automobiles", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/automobiles/03Fiestasticker/03Fiestasticker-superJumbo.jpg", 
+        "title": "Version 1.0: More Boost Than Eco"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/travel/03QNA1/03QNA1-sfSpan-v2.jpg", 
+        "abstract": "An air travel expert warns about new baggage and seating restrictions when you fly.", 
+        "article": "http://www.nytimes.com/2014/08/03/travel/george-hobica-finds-air-travels-rare-silver-linings.html", 
+        "author": "By EMILY BRENNAN", 
+        "copyright": "Bruce Alan Johnson", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/travel/03QNA1/03QNA1-superJumbo.jpg", 
+        "title": "George Hobica Finds Air Travels Rare Silver Linings"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-frugal-top/03-frugal-top-sfSpan.jpg", 
+        "abstract": "From movies to museums to meals, here are ways to save in the city while the weather sizzles.", 
+        "article": "http://www.nytimes.com/2014/07/30/travel/august-in-new-york-at-a-discount.html", 
+        "author": "By SETH KUGEL", 
+        "copyright": "Britta Pedersen/European Pressphoto Agency", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-frugal-top/03-frugal-top-superJumbo.jpg", 
+        "title": "August in New York, at a Discount"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03spoon1/mag-03Spoon-t_CA0-sfSpan.jpg", 
+        "abstract": "How the bands deconstructed songs deliver the power of familiarity without sounding anything like the rock music you know.", 
+        "article": "http://www.nytimes.com/2014/08/03/magazine/spoon-the-molecular-gastronomists-of-rock.html", 
+        "author": "By DAN KOIS", 
+        "copyright": "Graeme Mitchell for The New York Times", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03spoon1/mag-03Spoon-t_CA0-superJumbo.jpg", 
+        "title": "Spoon, the Molecular Gastronomists of Rock"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/realestate/03mort/03mort-sfSpan.jpg", 
+        "abstract": "Both are readily available for purchase online, but figuring out which is most accurate can be daunting.", 
+        "article": "http://www.nytimes.com/2014/08/03/realestate/credit-scores-vs-credit-reports.html", 
+        "author": "By LISA PREVOST", 
+        "copyright": "The New York Times", 
+        "section": "Real Estate", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/realestate/03mort/03mort-superJumbo.jpg", 
+        "title": "Credit Scores vs. Credit Reports"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/31/garden/07314SQUAREjp5/07314SQUAREjp5-sfSpan-v2.jpg", 
+        "abstract": "The Queen West Art and Design District of Toronto occupies the sweet spot between scared off and priced out.", 
+        "article": "http://www.nytimes.com/interactive/2014/07/30/garden/toronto-design.html", 
+        "author": "By JULIE LASKY", 
+        "copyright": "Robert Wright for The New York Times", 
+        "section": "Home & Garden", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/31/garden/07314SQUAREjp5/07314SQUAREjp5-superJumbo-v2.jpg", 
+        "title": "Four Square Blocks: Toronto"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/magazine/mag-03Lives-t_CA0/mag-03Lives-t_CA0-sfSpan.jpg", 
+        "abstract": "I had two sources of warmth during the cold middle-school years: a cocoon of books and a bowl of shelf-stable noodles.", 
+        "article": "http://www.nytimes.com/2014/08/03/magazine/how-ramen-got-me-through-adolescence.html", 
+        "author": "By VERONIQUE GREENWOOD", 
+        "copyright": "Illustration by Melinda Josie", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/magazine/mag-03Lives-t_CA0/mag-03Lives-t_CA0-superJumbo.jpg", 
+        "title": "How Ramen Got Me Through Adolescence"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-choice-top/03-choice-top-sfSpan.jpg", 
+        "abstract": "While restaurants take a more casual, accessible approach, creativity still sparkles on the plate.", 
+        "article": "http://www.nytimes.com/2014/08/03/travel/a-taste-of-barcelonas-evolving-dining-scene.html", 
+        "author": "By NICHOLAS GILL", 
+        "copyright": "Lourdes Segade for The New York Times", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-choice-top/03-choice-top-superJumbo.jpg", 
+        "title": "A Taste of Barcelonas Evolving Dining Scene"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/realestate/03gaz1/03gaz1-sfSpan.jpg", 
+        "abstract": "Home buyers are looking at this 31-square-mile municipality in southern Monmouth County as an alternative to the far more expensive beach towns nearby.", 
+        "article": "http://www.nytimes.com/2014/08/03/realestate/wall-township-nj-off-the-beach-still-at-the-shore.html", 
+        "author": "By JILL P. CAPUZZO", 
+        "copyright": "Edwin J. Torres for The New York Times", 
+        "section": "Real Estate", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/realestate/03gaz1/03gaz1-superJumbo.jpg", 
+        "title": "Wall Township, N.J.: Off the Beach, Still at the Shore"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/automobiles/FERRARI1/FERRARI1-sfSpan.jpg", 
+        "abstract": "The 1966 365 P Berlinetta Speciale, which is heading to auction, is startling in many ways, but its the three-across seating, with the driver in the center, that is its most unusual feature.", 
+        "article": "http://www.nytimes.com/2014/08/03/automobiles/collectibles/a-ferrari-for-you-and-two-friends.html", 
+        "author": "By JIM MOTAVALLI", 
+        "copyright": "Brian Henniker/Courtesy of Gooding & Company", 
+        "section": "Automobiles", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/automobiles/FERRARI1/FERRARI1-superJumbo.jpg", 
+        "title": "A Ferrari for You and Two Friends"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/06/01/travel/01-hours-top/01-hours-top-sfSpan.jpg", 
+        "abstract": "Dine seaside, sip cocktails high above the water or just stretch out in the sand during this coastal weekend in Catalonia.", 
+        "article": "http://www.nytimes.com/2014/06/01/travel/36-hours-on-the-beach-in-barcelona.html", 
+        "author": "By ANDREW FERREN", 
+        "copyright": "Lourdes Segade for The New York Times", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/06/01/travel/01-hours-top/01-hours-top-superJumbo.jpg", 
+        "title": "36 Hours on the Beach in Barcelona"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/10/travel/10-update-tower/10-update-tower-sfSpan.jpg", 
+        "abstract": "The Htel Plaza Athne reopens in a soft launch after a $268 million expansion and renovation.", 
+        "article": "http://www.nytimes.com/2014/07/31/travel/a-delicately-managed-face-lift-for-a-paris-beauty.html", 
+        "author": "By SUSANNE FOWLER", 
+        "copyright": "Lauren Fleishman for The New York Times", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/10/travel/10-update-tower/10-update-tower-superJumbo.jpg", 
+        "title": "A Delicately Managed Face-Lift for a Paris Beauty"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/01/12/travel/12-ptg-sf-span/12-ptg-sf-span-sfSpan.jpg", 
+        "abstract": "From No. 1 Cape Town all the way to No. 52 Niagara Falls, N.Y., explore the vibrant cities and spectacular coastlines, unexpected spots and new attractions that made our list this year.", 
+        "article": "http://www.nytimes.com/interactive/2014/01/10/travel/2014-places-to-go.html", 
+        "author": "", 
+        "copyright": "", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/01/12/travel/12-ptg-sf-span/12-ptg-sf-span-superJumbo.jpg", 
+        "title": "52 Places to Go in 2014"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/realestate/03ask/03ask-sfSpan.jpg", 
+        "abstract": "Co-op boards and their responsibilities to divorcing shareholders; rooftop barbecue bans; and hefty assessments are this weeks subjects.", 
+        "article": "http://www.nytimes.com/2014/08/03/realestate/divorcing-co-op-owners-rooftop-barbecues-and-costly-assessments.html", 
+        "author": "By RONDA KAYSEN", 
+        "copyright": "Michael Kolomatsky/The New York Times", 
+        "section": "Real Estate", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/realestate/03ask/03ask-superJumbo.jpg", 
+        "title": "Divorce and the Board"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03ethicist/mag-03Ethicist-t_CA0-sfSpan.jpg", 
+        "abstract": "Money for silence; money in hiding.", 
+        "article": "http://www.nytimes.com/2014/08/03/magazine/campus-police-precrime-division.html", 
+        "author": "By CHUCK KLOSTERMAN", 
+        "copyright": "Mark Nerys", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03ethicist/mag-03Ethicist-t_CA0-superJumbo.jpg", 
+        "title": "Campus Police: Precrime Division"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/27/realestate/27COVERFOSTER/27COVERFOSTER-sfSpan.jpg", 
+        "abstract": "Four major creations from the British designer Norman Foster, who favors lots of stainless steel and glass, are under construction or close to breaking ground in Manhattan.", 
+        "article": "http://www.nytimes.com/2014/07/27/realestate/norman-foster-enjoys-a-new-york-moment.html", 
+        "author": "By C. J. HUGHES", 
+        "copyright": "Emon Hassan for The New York Times", 
+        "section": "Real Estate", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/27/realestate/27COVERFOSTER/27COVERFOSTER-superJumbo.jpg", 
+        "title": "An Architect Gets Busy"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03politics/mag-03Politics-t_CA0-sfSpan.jpg", 
+        "abstract": "The same thing as Rick Perry, Scott Walker and Bobby Jindal: Talking about how much he loves Iowa!", 
+        "article": "http://www.nytimes.com/2014/08/03/magazine/what-is-chris-christie-doing-in-iowa.html", 
+        "author": "By MARK LEIBOVICH", 
+        "copyright": "Illustration by Paul Windle", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03politics/mag-03Politics-t_CA0-superJumbo.jpg", 
+        "title": "What Is Chris Christie Doing in Iowa?"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03riff/mag-03Riff-t_CA0-sfSpan.jpg", 
+        "abstract": "Meditations on exposing an innocent adorable creature to this brutal, perverse world.", 
+        "article": "http://www.nytimes.com/2014/08/03/magazine/can-parenthood-and-pessimism-live-side-by-side.html", 
+        "author": "By MARK OCONNELL", 
+        "copyright": "Illustration by Tom Gauld", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/magazine/03riff/mag-03Riff-t_CA0-superJumbo.jpg", 
+        "title": "Can Parenthood and Pessimism Live Side by Side?"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/20/travel/20GETAWAY/20GETAWAY-sfSpan.jpg", 
+        "abstract": "A number of new and often more affordable tools are aiming to help you rattle off table for two in no time.", 
+        "article": "http://www.nytimes.com/2014/07/20/travel/inventive-cheaper-tools-for-learning-a-language.html", 
+        "author": "By STEPHANIE ROSENBLOOM", 
+        "copyright": "Giacomo Gambineri", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/20/travel/20GETAWAY/20GETAWAY-superJumbo.jpg", 
+        "title": "Inventive, Cheaper Tools for Learning a Language"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/27/automobiles/27BMW235isticker/27BMW235isticker-sfSpan.jpg", 
+        "abstract": "The handsome 2 Series, which replaces the 1 Series in the BMW lineup, has more interior luxury than the previous model and is a blast to drive, especially the M235i version.", 
+        "article": "http://www.nytimes.com/2014/07/27/automobiles/autoreviews/2014-bmw-m235i-review.html", 
+        "author": "By LAWRENCE ULRICH", 
+        "copyright": "BMW of North America", 
+        "section": "Automobiles", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/27/automobiles/27BMW235isticker/27BMW235isticker-superJumbo.jpg", 
+        "title": "Not Quite an M Car, but Stirring in Spirit"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/10/magazine/10economy/mag-10Economy-t_CA0-sfSpan.jpg", 
+        "abstract": "The Games seem like an economic boon  at least until you calculate how much the host country lost.", 
+        "article": "http://www.nytimes.com/2014/08/10/magazine/does-hosting-the-olympics-actually-pay-off.html", 
+        "author": "By BINYAMIN APPELBAUM", 
+        "copyright": "Illustration by Kelsey Dake", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/10/magazine/10economy/mag-10Economy-t_CA0-superJumbo.jpg", 
+        "title": "Does Hosting the Olympics Actually Pay Off?"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/27/magazine/27storagealt/27storagealt-sfSpan-v2.jpg", 
+        "abstract": "A refrigeration boom is changing the way Chinese people eat  and threatening the planet in the process.", 
+        "article": "http://www.nytimes.com/2014/07/27/magazine/what-do-chinese-dumplings-have-to-do-with-global-warming.html", 
+        "author": "By NICOLA TWILLEY", 
+        "copyright": "Massimo Vitali for The New York Times", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/27/magazine/27storagealt/27storagealt-superJumbo-v2.jpg", 
+        "title": "What Do Chinese Dumplings Have to Do With Global Warming?"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/31/garden/20140731-SHOP-slide-2DLC/20140731-SHOP-slide-2DLC-sfSpan.jpg", 
+        "abstract": "With pieces this pretty, youll want something else to help you reach that upper shelf.", 
+        "article": "http://www.nytimes.com/2014/07/31/garden/low-stools-high-art.html", 
+        "author": "By TIM McKEOUGH", 
+        "copyright": "", 
+        "section": "Home & Garden", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/31/garden/20140731-SHOP-slide-2DLC/20140731-SHOP-slide-2DLC-superJumbo.jpg", 
+        "title": "Low Stools, High Art"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/01/automobiles/01JAGUAR-image2/01JAGUAR-image2-sfSpan-v2.jpg", 
+        "abstract": "Jaguar sponsored the British Sky team in the Tour de France and modified one of its 550-horsepower F-Type coupes to serve as an unusual support car.", 
+        "article": "http://www.nytimes.com/2014/08/01/automobiles/a-jaguar-f-type-modified-for-tour-de-france-duty.html", 
+        "author": "By IAN AUSTEN", 
+        "copyright": "Jaguar/Land Rover", 
+        "section": "Automobiles", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/01/automobiles/01JAGUAR-image2/01JAGUAR-image2-superJumbo.jpg", 
+        "title": "A Jaguar F-Type, Modified for Tour de France Duty"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/realestate/20140803-LOVE-slide-6QMF-copy/20140803-LOVE-slide-6QMF-copy-sfSpan.jpg", 
+        "abstract": "The family business is fireworks. But at home in Bellport, N.Y., Phil and Debbie Grucci have a soundtrack of gently lapping waves.", 
+        "article": "http://www.nytimes.com/2014/08/03/realestate/the-bellport-ny-home-of-phil-and-debbie-grucci.html", 
+        "author": "By DAN SHAW", 
+        "copyright": "Nicole Bengiveno/The New York Times", 
+        "section": "Real Estate", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/realestate/20140803-LOVE-slide-6QMF-copy/20140803-LOVE-slide-6QMF-copy-superJumbo.jpg", 
+        "title": "Where the Din Is on Mute"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/13/magazine/13harding1/13harding1-sfSpan-v3.jpg", 
+        "abstract": "The strikingly graphic correspondence from Harding, perhaps the worst chief executive in U.S. history, to his longtime mistress.", 
+        "article": "http://www.nytimes.com/2014/07/13/magazine/letters-warren-g-harding.html", 
+        "author": "By JORDAN MICHAEL SMITH", 
+        "copyright": "Left: the Calvin H. Topliff family. Right: the Ohio History Connection. Photo illustration by Matt Dorfman.", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/13/magazine/13harding1/13harding1-superJumbo-v2.jpg", 
+        "title": "The Letters That Warren G. Hardings Family Didnt Want You to See"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/31/garden/31QNA2/0731QNA2-sfSpan.jpg", 
+        "abstract": "Johnny Grey, a celebrated kitchen designer, on strategies for making food preparation more sociable.", 
+        "article": "http://www.nytimes.com/2014/07/31/garden/everyone-into-the-kitchen.html", 
+        "author": "By JANE MARGOLIES", 
+        "copyright": "Glenn Dearing", 
+        "section": "Home & Garden", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/31/garden/31QNA2/0731QNA2-superJumbo.jpg", 
+        "title": "Everyone Into the Kitchen"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-pursuits-top/03-pursuits-top-sfSpan.jpg", 
+        "abstract": "A family of four adjusts to the rhythms of a new culture, with the two younger ones leading the way.", 
+        "article": "http://www.nytimes.com/2014/08/03/travel/taking-your-teenagers-to-kyoto.html", 
+        "author": "By ROBIN POGREBIN", 
+        "copyright": "Ko Sasaki for The New York Times", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-pursuits-top/03-pursuits-top-superJumbo.jpg", 
+        "title": "Taking Your Teenagers to Kyoto"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/10/travel/10-surfacing-top/10-surfacing-top-sfSpan.jpg", 
+        "abstract": "Trendy watering holes, pioneering galleries and niche boutiques are joining the mix in this neighborhood.", 
+        "article": "http://www.nytimes.com/2014/08/10/travel/suds-scents-and-soup-in-san-franciscos-tenderloin.html", 
+        "author": "By CHRISTOPHER HALL", 
+        "copyright": "Jason Henry for The New York Times", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/10/travel/10-surfacing-top/10-surfacing-top-superJumbo.jpg", 
+        "title": "Suds, Scents and Soup in San Franciscos Tenderloin"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/05/science/04recipehealth/04recipehealth-sfSpan.jpg", 
+        "abstract": "This spicy, juicy meal, perfect for the summer, is one of a variety of Tunisian grilled salads. The couscous can be served warm or at room temperature.", 
+        "article": "http://www.nytimes.com/2014/08/04/health/tunisian-grilled-peppers-and-tomatoes-with-couscous.html", 
+        "author": "By MARTHA ROSE SHULMAN", 
+        "copyright": "Andrew Scrivani for The New York Times", 
+        "section": "Health", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/05/science/04recipehealth/04recipehealth-superJumbo.jpg", 
+        "title": "Tunisian Grilled Peppers and Tomatoes with Couscous"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/27/magazine/27lewis4/27lewis4-sfSpan.jpg", 
+        "abstract": "The indie darling and former child star is back after six years of anguished silence  and she wants to blow your mind.", 
+        "article": "http://www.nytimes.com/2014/07/27/magazine/the-jenny-lewis-experience.html", 
+        "author": "By JEFF HIMMELMAN", 
+        "copyright": "Holly Andres for The New York Times", 
+        "section": "Magazine", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/27/magazine/27lewis4/27lewis4-superJumbo.jpg", 
+        "title": "The Jenny Lewis Experience"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/27/automobiles/27COL1/27COL1-sfSpan.jpg", 
+        "abstract": "The Ruxton seemed destined for greatness in 1929, but the company that made the car fell apart. In August, the Pebble Beach concours is expected to display at least 15 of the cars.", 
+        "article": "http://www.nytimes.com/2014/07/27/automobiles/collectibles/remembering-the-ruxton.html", 
+        "author": "By ROBERT C. YEAGER", 
+        "copyright": "Michael Stravato for The New York Times", 
+        "section": "Automobiles", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/27/automobiles/27COL1/27COL1-superJumbo.jpg", 
+        "title": "Remembering the Ruxton"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/07/31/automobiles/31IIHS-image/31IIHS-image-sfSpan-v2.jpg", 
+        "abstract": "The Mini Cooper Countryman pulled in top ratings; the Fiat 500L, Mazda 5, Nissan Juke and Nissan Leaf received low scores.", 
+        "article": "http://www.nytimes.com/2014/07/31/automobiles/insurance-institute-for-highway-safety-crash-tests-more-small-cars.html", 
+        "author": "By CHERYL JENSEN", 
+        "copyright": "Insurance Institute for Highway Safety", 
+        "section": "Automobiles", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/07/31/automobiles/31IIHS-image/31IIHS-image-superJumbo.jpg", 
+        "title": "Insurance Institute for Highway Safety Crash Tests More Small Cars"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-surfacing-bravery/03-surfacing-bravery-sfSpan.jpg", 
+        "abstract": "Jalan Besar, known for its divey karaoke bars and cheap hotels, has recently lured design stores and hip coffee shops.", 
+        "article": "http://www.nytimes.com/2014/08/03/travel/in-a-singapore-neighborhood-gritty-mixes-with-trendy.html", 
+        "author": "By JUSTIN BERGMAN", 
+        "copyright": "Juliana Tan for The New York Times", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-surfacing-bravery/03-surfacing-bravery-superJumbo.jpg", 
+        "title": "In a Singapore Neighborhood, Gritty Mixes With Trendy"
+    }, 
+    {
+        "Large": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-personal-illo/03-personal-illo-sfSpan.jpg", 
+        "abstract": "Remembering an adventurous trip to an elephant festival in Thailand, one of the last vacations the author took with her brother.", 
+        "article": "http://www.nytimes.com/2014/08/03/travel/elephants-my-brother-and-me.html", 
+        "author": "By SUZANNE YBARRA", 
+        "copyright": "Christopher Silas Neal", 
+        "section": "Travel", 
+        "superJumbo": "http://graphics8.nytimes.com/images/2014/08/03/travel/03-personal-illo/03-personal-illo-superJumbo.jpg", 
+        "title": "Elephants, My Brother and Me"
+    }
+]

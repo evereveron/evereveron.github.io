@@ -1,0 +1,144 @@
+<!doctype html>
+<html>
+<head>
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+	<!-- Masonry -->
+	<script src="js/imagesloaded.pkgd.min.js"></script>
+	<script src="js/masonry.pkgd.min.js"></script>
+
+	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+
+	<script src="http://typeface.nytimes.com/zam5nzz.js"></script>
+	<script>try{Typekit.load();}catch(e){}</script>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/foundation.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
+	<!-- FancyBox -->
+	<link rel="stylesheet" href="css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="js/jquery.fancybox.js?v=2.1.5"></script>
+
+	<meta name="author" content="Alex Brashear, Diego Morales, Jasmine Feng, Jeffrey Shih">
+	<meta name="description" content="New York Times in Photos">
+	<meta name="keywords" content="Darkroom, New York, New York Times, Times">
+	<link rel="icon" href="icons/timest.jpeg">
+	<title>
+		Darkroom | NYT
+	</title>
+
+
+</head>
+<body>
+
+	<!-- Header container -->
+	<div class="fixed">
+		<nav class="top-bar" data-topbar data-options="sticky_on: large">
+			<ul class="title-area">
+				<li class="name">
+					<h1><a href="http://nytimes.com"><img id="ticon" src="icons/tlogo.png"></a></h1>
+				</li>
+				<!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+				<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+			</ul>
+
+			<section class="top-bar-section">
+				<ul class="right">
+					<li class="active"><a href="#"></a></li>
+					<li class="has-dropdown">
+						<a href="" id="sections">Sections</a>
+						<ul class="dropdown">
+							<li><a id="all">All</a></li>
+							<li><a id="arts">Arts</a></li>
+							<li><a id="opinion">Opinion</a></li>
+							<li><a id="news">News</a></li>
+							<li><a id="living">Living</a></li>
+						</ul>
+					</li>
+				</ul>
+			</section>
+
+			<section class="top-bar-section top">
+				<!-- Right Nav Section -->
+				
+
+				<!-- Left Nav Section -->
+				<ul class="left">
+					<li><a id="switch">Light Switch</a></li>
+					<li><a id="darkr">Darkroom</a></li>
+				</ul>
+			</section>
+		</nav>
+	</div>
+
+	<!--- end -->
+
+	<!-- Orbit stuff -->
+
+	<ul id="orbit-ul" class="orbit" data-orbit>
+		 
+		<li class="active" data-orbit-slide="headline-1">
+ 			<img class="orbit-images" src="photos/featured/featured9.jpg" alt="slide 1" />
+ 			<div class="image-text">
+          			<span class="orbit-title-text"><a target="_blank" href="http://www.nytimes.com/2014/08/03/opinion/sunday/roger-cohen-why-americans-see-israel-the-way-they-do.html">Why Americans See Israel the Way They Do</a><p class="orbit-byline">&nbsp; &nbsp; By ROGER COHEN</p></span>
+        			<span class="orbit-desc-text">The Israeli saga echoes in American mythology. But views are different in Europe, where anti-Semitism is rising.</span>
+        	</div>
+ 		</li>
+ 		<li data-orbit-slide="headline-2">
+ 			<img class="orbit-images" src="photos/featured/featured8.jpg" alt="slide 2" />
+ 			<div class="image-text">
+          			<span class="orbit-title-text"><a target="_blank" href="http://www.nytimes.com/2014/07/23/us/court-rules-against-obamacare-exchange-subsidies.html">New Questions on Health Law as Rulings on Subsidies Differ</a><p class="orbit-byline">&nbsp; &nbsp; By ROBERT PEAR</p></span>
+        			<span class="orbit-desc-text">The federal government should follow the growing movement in the states and repeal the ban on marijuana for both medical and recreational use.</span>
+        	</div>
+ 		</li>
+ 		<li data-orbit-slide="headline-3">
+ 			<img class="orbit-images" src="photos/featured/featured12.jpg" alt="slide 4" />
+ 			<div class="image-text">
+          			<span class="orbit-title-text"><a target="_blank" href="http://www.nytimes.com/2014/08/05/world/europe/europe-prepares-to-mark-centenary-of-world-war-i.html">On Centenary of World War I, Europe Sees Modern Parallels</a><p class="orbit-byline">&nbsp; &nbsp; By ALAN COWELL</p></span>
+          			<span class="orbit-desc-text">With ceremonies in Britain, Belgium and elsewhere, monarchs, prime ministers and citizens recall the war to end all wars.</span>
+        	</div>
+ 		</li>
+ 		<li data-orbit-slide="headline-4">
+ 			<img class="orbit-images" src="photos/featured/featured10.jpg" alt="slide 5" />
+ 			<div class="image-text">
+          			<span class="orbit-title-text"><a target="_blank" href="http://www.nytimes.com/2014/08/03/nyregion/the-lives-behind-times-square-cartoon-characters.html">Spider-Man Unmasked! Elmo and Minnie, Too</a><p class="orbit-byline">&nbsp; &nbsp; By KIRK SEMPLE</p></span>
+          			<span class="orbit-desc-text">Posing as superheroes and cartoon characters, street performers in Times Square - many of them immigrants - try to eke out a living from tips.</span>
+        	</div>
+ 		</li>		
+	</ul>
+	<!-- end -->
+
+
+	<!-- Main body Container -->
+	<div id="center">
+		<div id="container" class="js-masonry" data-masonry-options='{ "isFitWidth": true }'></div>
+	</div>
+
+	<!--foundation scripts -->
+	<script src="http://modernizr.com/downloads/modernizr-latest.js"></script>
+	<script src="js/foundation/foundation.js"></script>
+	<script src="js/foundation.min.js"></script>
+	<!-- <script src="js/foundation/foundation.topbar.js"></script> -->
+	<script src="js/foundation/foundation.orbit.js"></script>
+	<script type="text/javascript">
+	$(document).foundation({
+		orbit: {
+			animation: 'fade',
+			timer: true,
+			timer_speed: 7000,
+			pause_on_hover: true,
+			resume_on_mouseout: true,
+			animation_speed: 700,
+			slide_number: false,
+			navigation_arrows: true
+		}
+	});
+	</script>
+
+	<!-- end -->
+
+	<script src="js/main.js"></script>
+</body>
+</html>

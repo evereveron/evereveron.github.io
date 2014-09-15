@@ -1,0 +1,283 @@
+Last login: Fri Jul 18 10:32:44 on ttys000
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ ls
+README.md	extraPage.html	index.html	js		scripts
+css		icons		infinite.html	photos
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 40, done.
+remote: Compressing objects: 100% (29/29), done.
+remote: Total 34 (delta 5), reused 34 (delta 5)
+Unpacking objects: 100% (34/34), done.
+From https://github.com/nytm/intern-project-group-3
+   8f09b4a..ad19e86  master     -> origin/master
+Updating 8f09b4a..ad19e86
+error: Your local changes to the following files would be overwritten by merge:
+	index.html
+Please, commit your changes or stash them before you can merge.
+Aborting
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git stash
+Saved working directory and index state WIP on master: 8f09b4a masonry minor changes
+HEAD is now at 8f09b4a masonry minor changes
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+Updating 8f09b4a..ad19e86
+Fast-forward
+ css/foundation.css                      | 5470 +++++++++++++++++++++++++++++++
+ css/normalize.css                       |  425 +++
+ icons/tlogo.png                         |  Bin 31573 -> 3712 bytes
+ index.html                              |   38 +
+ js/foundation.min.js                    |   10 +
+ js/foundation/foundation.abide.js       |  299 ++
+ js/foundation/foundation.accordion.js   |   65 +
+ js/foundation/foundation.alert.js       |   43 +
+ js/foundation/foundation.clearing.js    |  550 ++++
+ js/foundation/foundation.dropdown.js    |  313 ++
+ js/foundation/foundation.equalizer.js   |   74 +
+ js/foundation/foundation.interchange.js |  344 ++
+ js/foundation/foundation.joyride.js     |  847 +++++
+ js/foundation/foundation.js             |  613 ++++
+ js/foundation/foundation.magellan.js    |  182 +
+ js/foundation/foundation.offcanvas.js   |  108 +
+ js/foundation/foundation.orbit.js       |  472 +++
+ js/foundation/foundation.reveal.js      |  443 +++
+ js/foundation/foundation.slider.js      |  231 ++
+ js/foundation/foundation.tab.js         |  167 +
+ js/foundation/foundation.tooltip.js     |  298 ++
+ js/foundation/foundation.topbar.js      |  426 +++
+ js/vendor/fastclick.js                  |    9 +
+ js/vendor/jquery.cookie.js              |    8 +
+ js/vendor/jquery.js                     |   26 +
+ js/vendor/modernizr.js                  |    8 +
+ js/vendor/placeholder.js                |    2 +
+ 27 files changed, 11471 insertions(+)
+ create mode 100644 css/foundation.css
+ create mode 100644 css/normalize.css
+ create mode 100644 js/foundation.min.js
+ create mode 100644 js/foundation/foundation.abide.js
+ create mode 100644 js/foundation/foundation.accordion.js
+ create mode 100644 js/foundation/foundation.alert.js
+ create mode 100644 js/foundation/foundation.clearing.js
+ create mode 100644 js/foundation/foundation.dropdown.js
+ create mode 100644 js/foundation/foundation.equalizer.js
+ create mode 100644 js/foundation/foundation.interchange.js
+ create mode 100644 js/foundation/foundation.joyride.js
+ create mode 100644 js/foundation/foundation.js
+ create mode 100644 js/foundation/foundation.magellan.js
+ create mode 100644 js/foundation/foundation.offcanvas.js
+ create mode 100644 js/foundation/foundation.orbit.js
+ create mode 100644 js/foundation/foundation.reveal.js
+ create mode 100644 js/foundation/foundation.slider.js
+ create mode 100644 js/foundation/foundation.tab.js
+ create mode 100644 js/foundation/foundation.tooltip.js
+ create mode 100644 js/foundation/foundation.topbar.js
+ create mode 100644 js/vendor/fastclick.js
+ create mode 100644 js/vendor/jquery.cookie.js
+ create mode 100644 js/vendor/jquery.js
+ create mode 100644 js/vendor/modernizr.js
+ create mode 100644 js/vendor/placeholder.js
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git commit .
+Aborting commit due to empty commit message.
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git add .
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git commit -m "nav bar stuff"
+[master d378676] nav bar stuff
+ Committer: Shih <206229@jeffrey-shih-intern.nyhq.nytint.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 19 insertions(+), 3 deletions(-)
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 11, done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 11 (delta 3), reused 0 (delta 0)
+Unpacking objects: 100% (11/11), done.
+From https://github.com/nytm/intern-project-group-3
+   ad19e86..44905b3  master     -> origin/master
+Merge made by the 'recursive' strategy.
+ infinite.html          |  37 ++-
+ js/foundation.js       | 613 +++++++++++++++++++++++++++++++++++++++++++++++++
+ js/foundation.orbit.js | 472 +++++++++++++++++++++++++++++++++++++
+ 3 files changed, 1120 insertions(+), 2 deletions(-)
+ create mode 100644 js/foundation.js
+ create mode 100644 js/foundation.orbit.js
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git push origin master
+Counting objects: 22, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (8/8), done.
+Writing objects: 100% (8/8), 986 bytes | 0 bytes/s, done.
+Total 8 (delta 6), reused 0 (delta 0)
+To https://github.com/nytm/intern-project-group-3.git
+   44905b3..6e476f2  master -> master
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pul
+git: 'pul' is not a git command. See 'git --help'.
+
+Did you mean one of these?
+	pull
+	push
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 24, done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 18 (delta 8), reused 17 (delta 7)
+Unpacking objects: 100% (18/18), done.
+From https://github.com/nytm/intern-project-group-3
+   6e476f2..dd2e691  master     -> origin/master
+Updating 6e476f2..dd2e691
+Fast-forward
+ index.html                    |   6 ------
+ photos/featured/featured1.jpg | Bin 0 -> 355659 bytes
+ photos/featured/featured2.jpg | Bin 0 -> 732956 bytes
+ photos/featured/featured3.jpg | Bin 0 -> 656330 bytes
+ photos/featured/featured4.jpg | Bin 0 -> 727232 bytes
+ scripts/featuredPhotos.json   |  36 ++++++++++++++++++++++++++++++++++++
+ 6 files changed, 36 insertions(+), 6 deletions(-)
+ create mode 100644 photos/featured/featured1.jpg
+ create mode 100644 photos/featured/featured2.jpg
+ create mode 100644 photos/featured/featured3.jpg
+ create mode 100644 photos/featured/featured4.jpg
+ create mode 100644 scripts/featuredPhotos.json
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 52, done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 37 (delta 28), reused 34 (delta 25)
+Unpacking objects: 100% (37/37), done.
+From https://github.com/nytm/intern-project-group-3
+   dd2e691..33a8838  master     -> origin/master
+Updating dd2e691..33a8838
+error: Your local changes to the following files would be overwritten by merge:
+	index.html
+Please, commit your changes or stash them before you can merge.
+Aborting
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git add .
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+Updating dd2e691..33a8838
+error: Your local changes to the following files would be overwritten by merge:
+	index.html
+Please, commit your changes or stash them before you can merge.
+Aborting
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git commit -m "nav arrow + fancybox changes"
+[master 3377fa2] nav arrow + fancybox changes
+ Committer: Shih <206229@jeffrey-shih-intern.nyhq.nytint.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+), 5 deletions(-)
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git add .
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git commit -m "more fancy changes"
+[master 8f154dc] more fancy changes
+ Committer: Shih <206229@jeffrey-shih-intern.nyhq.nytint.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+Already up-to-date.
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git push origin master
+Counting objects: 33, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (11/11), 1.18 KiB | 0 bytes/s, done.
+Total 11 (delta 9), reused 0 (delta 0)
+To https://github.com/nytm/intern-project-group-3.git
+   33a8838..8f154dc  master -> master
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 10, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 4), reused 6 (delta 4)
+Unpacking objects: 100% (6/6), done.
+From https://github.com/nytm/intern-project-group-3
+   8f154dc..9c2ebc3  master     -> origin/master
+Updating 8f154dc..9c2ebc3
+Fast-forward
+ index.html | 9 +++------
+ 1 file changed, 3 insertions(+), 6 deletions(-)
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+Already up-to-date.
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git add .
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git commit -m "bleh"
+[master 1fe8b1a] bleh
+ Committer: Shih <206229@jeffrey-shih-intern.nyhq.nytint.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git push origin master
+Counting objects: 13, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 365 bytes | 0 bytes/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+To https://github.com/nytm/intern-project-group-3.git
+   9c2ebc3..1fe8b1a  master -> master
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 31, done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 22 (delta 16), reused 16 (delta 10)
+Unpacking objects: 100% (22/22), done.
+From https://github.com/nytm/intern-project-group-3
+   1fe8b1a..5c156d7  master     -> origin/master
+Updating 1fe8b1a..5c156d7
+error: Your local changes to the following files would be overwritten by merge:
+	css/style.css
+	index.html
+	js/main.js
+Please, commit your changes or stash them before you can merge.
+Aborting
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git stash
+Saved working directory and index state WIP on master: 1fe8b1a bleh
+HEAD is now at 1fe8b1a bleh
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+Updating 1fe8b1a..5c156d7
+Fast-forward
+ css/style.css | 53 ++++++++++++++++++-----------------------------------
+ index.html    |  8 ++++----
+ js/main.js    |  2 +-
+ 3 files changed, 23 insertions(+), 40 deletions(-)
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ git pull
+remote: Counting objects: 9, done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 9 (delta 2), reused 0 (delta 0)
+Unpacking objects: 100% (9/9), done.
+From https://github.com/nytm/intern-project-group-3
+   5c156d7..09945d1  master     -> origin/master
+Updating 5c156d7..09945d1
+Fast-forward
+ scripts/data3.json         | 1820 ++++++++++++++++++++++++++++++++++++++++++++
+ scripts/newJsonSource.txt  |  381 +++++-----
+ scripts/page_generator.py  |   42 +
+ scripts/photo_generator.py |   22 +-
+ 4 files changed, 2066 insertions(+), 199 deletions(-)
+ create mode 100644 scripts/data3.json
+ create mode 100644 scripts/page_generator.py
+Jeffrey-Shih-Intern:intern-project-group-3 206229$ 

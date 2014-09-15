@@ -1,0 +1,147 @@
+body {
+	background-color: #FFFFFF;
+}
+nav.top-bar {
+	text-align:center;
+	background: white;
+}
+.orbit-bullets {
+margin: 0 auto 15px auto;
+overflow: hidden;
+position: relative;
+top: 10px; 
+float: none;
+text-align: center;
+display: block;
+margin: 0 0 15px 0;
+}
+#darkr{
+	font-family: "nyt-stymie";
+	font-size: 2em;
+	background: white;
+	color: black;
+}
+section.top {
+	display: inline-block;
+}
+
+h1.darkroom {
+	font-family: "nyt-stymie";
+	color: white;
+	font-size: 500%;
+	text-align: center;
+}
+
+#container {
+	margin-left: 2.1%;
+}
+
+.item {	
+	cursor: pointer;
+	border: #FFFFFF;
+	border-style: solid;
+	border-top-width: 10px;
+	border-left-width: 0;
+	border-right-width: 0;
+}
+
+
+.item span.hoverText{
+	opacity: 0;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+
+.item{
+	list-style-type: none;
+}
+
+.item li:hover span.hoverText {
+	opacity: 1;
+	background: rgba(0, 0, 0, 0.6);
+	min-height: 100%;
+	min-width: 100%;
+}
+
+a:link {
+    color: #FFFFFF !important;
+}
+a:visited {
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+#hovertitle{
+	font-size: 35px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	line-height: 110%;
+}
+
+#share{
+	width: 2em;
+}
+
+.orbit .overlay {
+	color: white;
+	position: absolute;
+	top: 80%;
+	left: 5%;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 1.0);
+}
+
+.image-text {
+  position: absolute;
+  bottom: -8px; /* Change the vertical position here */
+  left: 0;
+  width: 100%;
+  color: #fff;
+}
+
+.image-text span {
+  float: left;
+  clear: right;
+  color: #FFFFFF; /* Change font color here */
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  min-width: 100%;
+  background: rgba(0, 0, 0, 0); /* Change the transparent text background here */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1.0);
+}
+
+.orbit-title-text{
+	font-size: 40px;
+}
+
+.orbit-desc-text{
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+.orbit-container ul li { 
+	max-height: 600px; 
+	overflow: hidden; 
+} 
+
+.orbit-container ul li img { 
+	width: 100%; 
+}
+
+.orbit-images{
+    vertical-align: middle;
+}
+
+#title{
+	text-decoration: underline;
+}
+
+#abstract{
+	font-size: 18px;
+}

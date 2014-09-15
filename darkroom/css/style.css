@@ -1,0 +1,158 @@
+body {
+	background-color: #252525;
+}
+.left {
+	margin-left: -24% !important;
+}
+#switch {
+	font-size: 7pt;
+}
+nav.top-bar {
+	text-align:center;
+}
+.top-bar-section.top {
+	padding-left: 10%;
+}
+.orbit-bullets {
+	margin: 0 auto 15px auto;
+	overflow: hidden;
+	position: relative;
+	top: 10px; 
+	float: none;
+	text-align: center;
+	display: block;
+	margin: 0 0 15px 0;
+}
+#darkr{
+	font-family: "nyt-stymie";
+	font-size: 2em;
+	text-decoration: none;
+}
+section.top {
+	display: inline-block;
+}
+
+h1.darkroom {
+	font-family: "nyt-stymie";
+	color: white;
+	font-size: 500%;
+	text-align: center;
+}
+
+#container {
+	margin: 0 auto;
+}
+
+.item {	
+	cursor: pointer;
+	border: 5px solid #252525;
+	max-width: 400px;
+	background-color: black;
+}
+.item:hover .pic{	
+	opacity: .3;
+}
+.item:hover .hovertitle{	
+	opacity: 1;
+}
+
+a:link {
+    color: #FFFFFF !important;
+}
+a:visited {
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+#readmore{
+	font-size: 15px;
+}
+
+.hovertitle {
+	z-index: 2;
+	opacity: 0;
+	font-size: 35px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+	line-height: 110%;
+}
+
+#share{
+	width: 2em;
+}
+
+.orbit .overlay {
+	color: white;
+	position: absolute;
+	width: 100%;
+	top: 80%;
+	left: 5%;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 1.0);
+}
+
+.image-text {
+  position: absolute;
+  bottom: -8px; /* Change the vertical position here */
+  left: 0;
+  width: 100%;
+  color: #fff;
+}
+
+.image-text span {
+  float: left;
+  clear: right;
+  color: #FFFFFF; /* Change font color here */
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  min-width: 100%;
+  background: rgba(0, 0, 0, 0); /* Change the transparent text background here */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1.0);
+}
+
+.orbit-title-text{
+	font-size: 40px;
+	margin-left: 2%;
+}
+
+.orbit-desc-text{
+	font-size: 20px;
+	padding-bottom: 10px;
+	margin-left: 2%;
+}
+
+.orbit-byline{
+	font-size: 13px;
+	display:inline;
+}
+
+.orbit-container ul li { 
+	max-height: 720px; 
+	overflow: hidden; 
+} 
+
+#authinfo{
+	font-size: 13px;
+}
+
+.orbit-container ul li img { 
+	width: 100%; 
+}
+
+.orbit-images{
+	display: block;
+	margin: 0 auto 100;
+}
+
+#title{
+	text-decoration: underline;
+}
+
+#abstract{
+	font-size: 18px;
+}
