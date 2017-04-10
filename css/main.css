@@ -1,10 +1,14 @@
 body {
   font-family: 'Lato', sans-serif;
   margin-top: 70px;
+  margin-bottom: 30px;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Josefin Sans', sans-serif;
 }
 hr.divider {
   width: 80px;
+}
+.purple {
+  color: #c180c1;
 }
