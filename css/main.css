@@ -16,6 +16,22 @@ hr.divider {
 .clickable:hover {
   cursor: pointer;
 }
-.coding, .creating {
+#coding, #creating {
   display: none;
+}
+.categories {
+  margin: 15px 40px 30px 40px;
+}
+.fade-in-top {
+	-webkit-animation: fade-in-top 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	-moz-animation: fade-in-top 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	animation: fade-in-top 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+.resume a {
+  text-decoration: none;
+  color: black;
+}
+ul.contact li:hover,
+ .resume a:hover {
+  color: #c180c1;
 }
