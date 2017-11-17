@@ -15,12 +15,17 @@ hr.divider {
 }
 .clickable:hover {
   cursor: pointer;
-}
-#coding, #creating {
-  display: none;
+  color: #c180c1;
 }
 .categories {
   margin: 15px 40px 30px 40px;
+  min-height: 100px;
+}
+.categories section {
+  display: none;
+}
+.categories section.active {
+  display: inline-block;
 }
 .fade-in-top {
 	-webkit-animation: fade-in-top 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
