@@ -10,13 +10,6 @@ hr.divider {
   margin-top: 50px;
   width: 150px;
 }
-.purple {
-  color: #c180c1;
-}
-.clickable:hover {
-  cursor: pointer;
-  color: #c180c1;
-}
 .categories {
   margin: 30px 40px 30px 40px;
   min-height: 100px;
@@ -32,11 +25,18 @@ hr.divider {
 	-moz-animation: fade-in-top 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 	animation: fade-in-top 0.8s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
 }
-.resume a {
-  text-decoration: none;
+ul.contact a {
   color: black;
+  text-decoration: none;
 }
 ul.contact li:hover,
- .resume a:hover {
+ a:hover {
+  color: #c180c1;
+}
+.purple {
+  color: #c180c1;
+}
+.clickable:hover {
+  cursor: pointer;
   color: #c180c1;
 }
